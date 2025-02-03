@@ -74,22 +74,13 @@ Creating **personalized AI-generated music** to make special moments unforgettab
 
 ---
 
-## 🌟 **Featured Projects**  
-
-🔹 **[SmartCounsel.AI](https://www.smartcounsel.ai)** – AI-powered legal automation ⚖️  
-🔹 **[Glacier Climate Tech](https://www.glacier.io)** – AI-driven sustainability solutions 🌍  
-🔹 **[Singalala](https://singalala.com)** – Personalized music generation with AI 🎵  
-🔹 **[BrightChamps](https://brightchamps.com)** – Global live-learning edtech platform 📚  
-
-> 💡 **Want to collaborate on AI, sustainability, or full-stack projects?**  
-📬 **Reach out:** [kishan.chimminiyan@gmail.com](mailto:kishan.chimminiyan@gmail.com)
-
----
-
 ## 📌 **Let's Connect!**  
 
 🌐 **Portfolio:** [kishanchimminiyan.com](https://www.linkedin.com/in/c-kishan/)  
 💼 **LinkedIn:** [linkedin.com/in/c-kishan](https://www.linkedin.com/in/c-kishan/)  
 📂 **GitHub:** [@jgdkishan](https://github.com/jgdkishan)  
+
+> 💡 **Want to collaborate on projects?**  
+📬 **Reach out:** [kishan.chimminiyan@gmail.com](mailto:kishan.chimminiyan@gmail.com)
 
 🚀 **#MakeItHappen | #AI | #SpaceTech | #Sustainability**  
