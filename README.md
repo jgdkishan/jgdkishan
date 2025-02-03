@@ -78,7 +78,7 @@ Creating **personalized AI-generated music** to make special moments unforgettab
 🔹 **[BrightChamps](https://brightchamps.com)** – Global live-learning edtech platform 📚  
 
 > 💡 **Want to collaborate on AI, sustainability, or full-stack projects?**  
-📬 **Reach out:** [kishanchimminiyan@gmail.com](mailto:kishan.chimminiyan@gmail.com)
+📬 **Reach out:** [kishan.chimminiyan@gmail.com](mailto:kishan.chimminiyan@gmail.com)
 
 ---
 
