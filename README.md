@@ -2,8 +2,6 @@
 
 **Entrepreneur | AI Engineer | Full-Stack Developer**  
 
-🌌 Dreamer of Mars | 💡 Innovator | 🎯 Problem-Solver | 🙏 Devotee  
-
 
 ## 🚀 **About Me**  
 
