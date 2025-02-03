@@ -23,7 +23,7 @@ I'm a self-taught passionate developer from India. An entrepreneur by passion, a
 ### 🏛️ [SmartCounsel.AI](https://smartcounsel.ai) – **Founding Engineer**  
 Revolutionizing **legal workflows** using **AI-driven automation** for **case analysis, document processing, and juror evaluation**.  
 
-### ❄️ [Glacier](https://www.glacier.eco) – **Consulting Software Developer**  
+### 🌍 [Glacier](https://www.glacier.eco) – **Consulting Software Developer**  
 Developing **AI-powered sustainability solutions** to drive **climate action** and environmental change.  
 
 ### 🎵 [Singalala](https://singalala.com) – **Founding Engineer**  
