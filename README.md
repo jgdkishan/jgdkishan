@@ -11,7 +11,7 @@ I'm a self-taught passionate developer from India. An entrepreneur by passion, a
 - Generative AI & LLMs 🤖  
 - Full-Stack Development (Next.js, Nest.js, TypeScript, React.js) 💻  
 - API Integrations & Scalable Systems 🚀  
-- Cloud & DevOps (Azure, Docker, Redis) ☁️  
+- Cloud & DevOps (AWS, Azure, Docker, Redis) ☁️  
 
 ---
 
